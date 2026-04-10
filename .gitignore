@@ -1,0 +1,34 @@
+# Virtual environment
+venv/
+env/
+myenv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (large / unnecessary for repo)
+tmdb_5000_movies.csv
+tmdb_5000_credits.csv
+
+# Model files (generated artifacts)
+*.pkl
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment variables
+.env
